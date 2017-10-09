@@ -1,5 +1,7 @@
 # condition-noop
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Springworks/condition-noop.svg)](https://greenkeeper.io/)
+
 [Semantic Release](https://github.com/semantic-release/semantic-release) uses [condition-travis](https://github.com/semantic-release/condition-travis) as its default plugin, making it seemingly impossible to run on any other CI (unless using a custom plugin for that CI).
 
 Bizarre but true.
