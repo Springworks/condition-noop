@@ -1,0 +1,22 @@
+{
+  "name": "condition-noop",
+  "version": "1.0.0",
+  "description": "Semantic Release noop-plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Springworks/condition-noop.git"
+  },
+  "keywords": [
+    "semantic-release"
+  ],
+  "author": "Kristofer Sommestad <kristofer@sommestad.com> (http://sommestad.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Springworks/condition-noop/issues"
+  },
+  "homepage": "https://github.com/Springworks/condition-noop#readme",
+  "files": [
+    "index.js"
+  ]
+}
